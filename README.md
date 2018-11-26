@@ -4,7 +4,7 @@ Skrypt loguje się do systemu e-Dziekanat i pobiera plan zajęć do folderu, z k
 * [Python](https://www.python.org/downloads/)  
 * [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)  
 ### Biblioteki:
-- #### Selenium  
+* Selenium  
 ##### ``` pip install selenium ```
 
 ## Jak uruchomić?
