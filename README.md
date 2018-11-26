@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_WAT.jpg" width="100" align="right">
+
 # WAT e-Dziekanat
 Skrypt loguje się do systemu e-Dziekanat i pobiera plan zajęć do folderu, z którego go uruchomiono.
 ## Wymagania
