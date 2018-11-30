@@ -2,15 +2,19 @@
 
 # WAT e-Dziekanat
 Skrypt loguje się do systemu e-Dziekanat i pobiera plan zajęć do folderu, z którego go uruchomiono.
-## Wymagania
+## Wymagania:
 * [Python](https://www.python.org/downloads/)  
 * [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)  
 ### Biblioteki:
 * Selenium  
 ##### ``` pip install selenium ```
 
-## Jak uruchomić?
-- Umieść plik chromedriver w folderze, w którym znajduje się skrypt.
+## Instalacja:
+```bash
+1. git clone https://github.com/k0siara/WAT-e-Dziekanat.git
+2. cd WAT-e-Dziekanat
+```
+- Umieść plik [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) w folderze, w którym znajduje się skrypt.
 - W pliku login_data.txt wpisz swoje dane logowania do systemu e-Dziekanat:
 ```
 username=TWÓJ LOGIN
